@@ -9,15 +9,10 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+          Welcome! I'm Ini Brown, a passionate Frontend Developer specializing in React, crafting seamless, visually appealing interfaces. With a career born from curiosity, I excel in creating user-friendly applications that exceed expectations, staying ahead in technology for future-proof solutions. Collaboration-driven, I thrive in dynamic environments, delivering beyond technical requirements for an exceptional user experience.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+          Explore my portfolio showcasing projects that reflect my commitment to innovative React-driven applications. I invite you to witness the seamless blend of functionality and aesthetics. Thank you for visiting; let's collaborate on your next frontend development project!
           </p>
         </div>
       </div>

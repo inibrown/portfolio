@@ -4,49 +4,59 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Expert in crafting intuitive user interfaces with a focus on React, ensuring seamless and engaging web experiences."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/feather-pen-2.png",
+      "title": "Digital Marketing",
+      "description": "Strategic digital marketer, skilled in optimizing online presence, driving traffic, and enhancing user engagement for impactful campaigns."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
-    {
-      "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Proficient in leveraging Webflow's power for visually stunning, responsive, and dynamic website design and development."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/eccomerce.PNG",
+      "title": "E-commerce Shop",
+      "description": "Developed a fully functional e-commerce website using React.js, Redux, and Firebase for backend services. Implemented features such as user authentication, product browsing, cart management, and order processing. Ensured responsive design for seamless user experience across various devices.",
+      "link": "https://inishop.netlify.app/"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/todo.PNG",
+      "title": "Todo List APP",
+      "description": "Developed a task management application using React.js with features like adding, editing, and deleting tasks. Implemented functionality to prioritize tasks, mark them as complete, and filter tasks based on status. Utilized local storage for data persistence and a clean user interface for optimal user experience.",
+      "link": "https://todoini1.netlify.app/"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/weather.PNG",
+      "title": "Weather app",
+      "description": "Created a weather application using React.js and external APIs to fetch real-time weather data. Implemented features such as location detection, displaying current weather conditions, and a 5-day forecast. Designed an intuitive user interface for easy navigation and interaction.",
+      "link": "https://weathermanini.netlify.app/"
     }
+  ],
+
+  "certificate": [
+    {
+      "id": "1",
+      "src": "./img/UC-2779ea00-44cb-4b62-b6db-d232908d998d.jpg",
+      "title": "Advanced React: Design System, Design Patterns, Performance,Udemy 2024"
+     
+    },
+    {
+      "id": "2",
+      "src": "./img/UC-fdee7086-bf94-4054-81d1-3c032c399848.jpg",
+      "title": "The Complete React 18 Fullstack Course (2024 Edition), Udemy 2024"
+      
+    }
+    
   ],
   "testimonial": [
     {
